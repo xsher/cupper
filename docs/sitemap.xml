@@ -20,8 +20,20 @@
   </url>
   
   <url>
+    <loc>https://xsher.github.io/cupper/patterns/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xsher.github.io/cupper/patterns/posts/hello/</loc>
+  </url>
+  
+  <url>
     <loc>https://xsher.github.io/cupper/patterns/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xsher.github.io/cupper/patterns/posts/</loc>
   </url>
   
   <url>
