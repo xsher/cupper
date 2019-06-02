@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Cupper"
+title = "Sherly's Snippets"
 baseURL = "https://thepaciellogroup.github.io/cupper/"
 canonifyURLs = true
 theme = "cupper"
@@ -7,4 +7,3 @@ publishDir = "docs"
 
 [params]
   description = "Documentation for the **Cupper** documentation builder, built with **Cupper** itself."
-  codePenUser = "Heydon"

@@ -12,6 +12,10 @@
   </url>
   
   <url>
+    <loc>https://thepaciellogroup.github.io/cupper/</loc>
+  </url>
+  
+  <url>
     <loc>https://thepaciellogroup.github.io/cupper/patterns/pattern/</loc>
   </url>
   
@@ -23,10 +27,6 @@
   <url>
     <loc>https://thepaciellogroup.github.io/cupper/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thepaciellogroup.github.io/cupper/</loc>
   </url>
   
   <url>
