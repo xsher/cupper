@@ -1,6 +1,6 @@
 +++
 title = "Hello June."
-tags = []
+tags = ["june"]
 +++
 
 Hello!
