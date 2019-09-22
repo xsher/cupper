@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sherly&#39;s Snippets</title>
-    <link>https://xsher.github.io/cupper/patterns/posts/</link>
+    <link>https://xsher.github.io/patterns/posts/</link>
     <description>Recent content in Posts on Sherly&#39;s Snippets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://xsher.github.io/cupper/patterns/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xsher.github.io/patterns/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello June.</title>
-      <link>https://xsher.github.io/cupper/patterns/posts/hello/</link>
+      <link>https://xsher.github.io/patterns/posts/hello/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xsher.github.io/cupper/patterns/posts/hello/</guid>
+      <guid>https://xsher.github.io/patterns/posts/hello/</guid>
       <description>Hello!
 After much procrastination, I finally took the first step to get this site going! It is the month of June and I am committing myself to 30 days towards a better me!
    This post is still under construction! Stay tuned for updates!   </description>

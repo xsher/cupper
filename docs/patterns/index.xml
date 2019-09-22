@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patterns on Sherly&#39;s Snippets</title>
-    <link>https://xsher.github.io/cupper/patterns/</link>
+    <link>https://xsher.github.io/patterns/</link>
     <description>Recent content in Patterns on Sherly&#39;s Snippets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://xsher.github.io/cupper/patterns/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xsher.github.io/patterns/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>HOME</title>
-      <link>https://xsher.github.io/cupper/patterns/home/</link>
+      <title>Home</title>
+      <link>https://xsher.github.io/patterns/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xsher.github.io/cupper/patterns/home/</guid>
+      <guid>https://xsher.github.io/patterns/home/</guid>
       <description>Hi, I am Sherly. Although, most of the time I go by Sherly Sherly.
 My interests lies in the field of Data Science and Engineering.
 I am an ex-Software Engineer at Zendesk and ex-Data Scientist both at Zendesk and Go-Jek. I am currently pursuing my Double Masters in Data Science under EIT Digital Masters Programme at Polytech Nice Sophia. I am heading to KTH Royal Institute of Technology for my second year 2019-20 this August.</description>

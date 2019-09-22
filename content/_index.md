@@ -1,5 +1,5 @@
 +++
-title = "HOME"
+title = "Home"
 +++
 
 ### Hi, I am Sherly.

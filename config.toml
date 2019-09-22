@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Sherly's Snippets"
-baseURL = "https://xsher.github.io/cupper/"
+baseURL = "https://xsher.github.io/"
 canonifyURLs = true
 theme = "cupper"
 publishDir = "docs"
